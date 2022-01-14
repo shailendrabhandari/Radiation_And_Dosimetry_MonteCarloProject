@@ -1,3 +1,4 @@
+#Code written by Shailendra Bhandari 2020/2021 Radiation and Dosimetry Course
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
